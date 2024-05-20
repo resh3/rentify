@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/rentify/static/css/main.a5476d76.css",
+    "main.js": "/rentify/static/js/main.b460e79c.js",
+    "static/media/pic.jpg": "/rentify/static/media/pic.9bb928ca14a159bcc2d9.jpg",
+    "index.html": "/rentify/index.html",
+    "main.a5476d76.css.map": "/rentify/static/css/main.a5476d76.css.map",
+    "main.b460e79c.js.map": "/rentify/static/js/main.b460e79c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a5476d76.css",
+    "static/js/main.b460e79c.js"
+  ]
+}
